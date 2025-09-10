@@ -1,4 +1,4 @@
-import { User, Customer } from "./person";
+import { User, Customer } from "./Person";
 
 type appointmentState = "pendiente" | "hecha" | "cancelada";
 
